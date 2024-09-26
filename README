@@ -1,0 +1,14 @@
+tasklist
+tasklist /? ;udělá manuál
+tasklist /v ;vidíš jak se jmenujou uživatelé
+ps ax ;udělá tasklist v linuxu
+zombie = not gud
+taskkill /pid "      "  ukončí program
+PSKill           zabiješ s názvem
+Ps ax |grep bash
+kill -9 "číslo" zavře to
+wmic  boostne applikaci
+nice spustit proces s konkrétního 
+renice
+swapp si půjčí ramku z hardisku
+"trim" jak udělat větší prostor
