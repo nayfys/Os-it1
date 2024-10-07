@@ -12,3 +12,42 @@ nice spustit proces s konkrétního
 renice
 swapp si půjčí ramku z hardisku
 "trim" jak udělat větší prostor
+
+
+
+6.10
+        Vyndejsi
+    stahnout python
+    stahnout vs code
+win+r
+cmd
+python
+    a jsme v pythonu
+
+code
+    otevre vs code
+  extensions
+  instalujem python do vs code
+  vytvorime slozku "test"
+  otevreme
+print("Hello World!")
+i=1+1
+print("výsledek" + str(i))
+i= "hello" + "world"
+print(i)
+  grussy rekl : "do pythonu můžete napsat jakoukoli hovadinu a on to překouše"
+
+        Bubuntu
+    stahnout python
+    stahnout vs code
+cmd
+snap apt install python
+    instalujem python
+
+sudo snap install code --classic
+    instalujem vs code
+
+sudo apt install build-essential
+    jazyk C
+
+
